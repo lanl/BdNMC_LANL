@@ -1,5 +1,5 @@
 # BdNMC_LANL
-A repository for LANL funded additions to the BdNMC beam dump Monte Carlo
+A repository for LANL funded additions to the BdNMC beam dump Monte Carlo. This functions as a submodule of https://github.com/pgdeniverville/BdNMC.
 
 © 2021. Triad National Security, LLC. All rights reserved.
 This program was produced under U.S. Government contract 89233218CNA000001 for Los Alamos
